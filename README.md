@@ -1,4 +1,4 @@
-# 6amMart Vendor App
+# bleutoVendor App
 
 
 
